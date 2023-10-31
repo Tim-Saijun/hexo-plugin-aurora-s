@@ -33,7 +33,7 @@ hexo.on('generateAfter', function () {
   console.log(
     chalk.green('INFO  ') +
       chalk.yellow('API data generated with ') +
-      chalk.cyan.bold('hexo-plugin-aurora') +
+      chalk.cyan.bold('hexo-plugin-aurora-s') +
       chalk.magenta(' v' + pluginPack.version)
   );
 });
@@ -42,11 +42,12 @@ hexo.on('exit', function () {
   console.log(
     chalk.green('INFO  ') +
       'Thanks for using: ' +
-      chalk.cyan.bold('hexo-plugin-aurora') +
+      chalk.cyan.bold('hexo-plugin-aurora-s') +
       chalk.magenta(' v' + pluginPack.version) +
       ' & ' +
       chalk.cyan.bold('hexo-theme-aurora-s') +
       chalk.magenta(' v' + themePack.version)
   );
   console.log(chalk.green('INFO  ') + 'Crafted by ' + chalk.cyan.bold('bennyxguo <三钻> & Tim'));
+  console.log(chalk.red('INFO  ') + '注意⚠' + chalk.cyan.bold('如果html生成步骤有warning，请将_config.yml中的主题设为hexo-theme-aurora-s同时将配置文件重命名为_config.aurora-s.yml'));
 });
