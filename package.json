@@ -1,7 +1,7 @@
 {
   "name": "hexo-plugin-aurora-s",
   "version": "1.8.3",
-  "description": "A plugin for Hexo Aurora theme",
+  "description": "Modified plugin for Hexo Aurora theme",
   "main": "index.js",
   "keywords": [
     "hexo",
@@ -11,7 +11,7 @@
   "scripts": {
     "prepare": "husky install"
   },
-  "author": "bennyxguo<bennyxguo@gmail.com>",
+  "author": "Tim-Saijun<yangzair@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "algoliasearch": "^4.19.1",
