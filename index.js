@@ -12,7 +12,7 @@ require('./lib/commands')(hexo);
 var themePack;
 
 try {
-  themePack = require(appRoot + '/node_modules/hexo-theme-aurora/package.json');
+  themePack = require(appRoot + '/node_modules/hexo-theme-aurora-s/package.json');
 } catch (error) {
   throwInfo(
     'Aurora Plugin',
@@ -45,8 +45,8 @@ hexo.on('exit', function () {
       chalk.cyan.bold('hexo-plugin-aurora') +
       chalk.magenta(' v' + pluginPack.version) +
       ' & ' +
-      chalk.cyan.bold('hexo-theme-aurora') +
+      chalk.cyan.bold('hexo-theme-aurora-s') +
       chalk.magenta(' v' + themePack.version)
   );
-  console.log(chalk.green('INFO  ') + 'Crafted by ' + chalk.cyan.bold('bennyxguo <三钻>'));
+  console.log(chalk.green('INFO  ') + 'Crafted by ' + chalk.cyan.bold('bennyxguo <三钻> & Tim'));
 });
