@@ -1,6 +1,6 @@
 {
   "name": "hexo-plugin-aurora-s",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Modified plugin for Hexo Aurora theme",
   "main": "index.js",
   "keywords": [
