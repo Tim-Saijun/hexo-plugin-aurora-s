@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.3...v1.0.4) (2023-11-01)
+
+
+### Bug Fixes
+
+* 混滚到1.7.0以使用primjs高亮 ([9adb207](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/9adb207004f90e5cfbb2725c2042c2a002328f33))
+
 ## [1.0.3](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.2...v1.0.3) (2023-11-01)
 
 
