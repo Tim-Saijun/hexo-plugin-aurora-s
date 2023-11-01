@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.4...v1.0.5) (2023-11-01)
+
+
+### Bug Fixes
+
+* data ([42547dd](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/42547ddead7efdbfa3968e92026b0d9a93b3592c))
+
 ## [1.0.4](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.3...v1.0.4) (2023-11-01)
 
 
