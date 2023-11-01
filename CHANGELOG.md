@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.2...v1.0.3) (2023-11-01)
+
+
+### Reverts
+
+* Revert "fix: shiki回滚" ([ab679db](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/ab679dbde988d7e915b9da75bb725f52a4c3b015))
+
 ## [1.0.2](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.1...v1.0.2) (2023-11-01)
 
 
