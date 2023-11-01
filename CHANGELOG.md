@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.0...v1.0.1) (2023-10-31)
+
+
+### Bug Fixes
+
+* 增加重命名提示 ([9335d52](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/9335d5267bd7ce0b887aae2c7f80219d14a221e7))
+
 # 1.0.0 (2023-10-31)
 
 
