@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.7...v1.0.8) (2023-11-02)
+
+
+### Bug Fixes
+
+* 为代码复制按钮添加点击事件属性 ([019c3b9](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/019c3b9cff12aa417af4d476f36f86c5ba11590a))
+
 ## [1.0.7](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.6...v1.0.7) (2023-11-02)
 
 
