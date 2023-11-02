@@ -1,3 +1,31 @@
+## [1.0.4](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.3...v1.0.4) (2023-11-01)
+
+
+### Bug Fixes
+
+* 混滚到1.7.0以使用primjs高亮 ([9adb207](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/9adb207004f90e5cfbb2725c2042c2a002328f33))
+
+## [1.0.3](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.2...v1.0.3) (2023-11-01)
+
+
+### Reverts
+
+* Revert "fix: shiki回滚" ([ab679db](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/ab679dbde988d7e915b9da75bb725f52a4c3b015))
+
+## [1.0.2](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.1...v1.0.2) (2023-11-01)
+
+
+### Bug Fixes
+
+* shiki回滚 ([86c56af](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/86c56af83abb8798bf0d67c8f00539b09d07cc57))
+
+## [1.0.1](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.0...v1.0.1) (2023-10-31)
+
+
+### Bug Fixes
+
+* 增加重命名提示 ([9335d52](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/9335d5267bd7ce0b887aae2c7f80219d14a221e7))
+
 # 1.0.0 (2023-10-31)
 
 
