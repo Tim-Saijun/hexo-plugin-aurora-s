@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.6...v1.0.7) (2023-11-02)
+
+
+### Bug Fixes
+
+* 去除控制台日志 ([e26e717](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/e26e717840f61d76bc9577b332c10713671569bb))
+
 ## [1.0.6](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.5...v1.0.6) (2023-11-02)
 
 
