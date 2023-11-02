@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.5...v1.0.6) (2023-11-02)
+
+
+### Bug Fixes
+
+* 用回shiki ([159bdf3](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/159bdf3f324f3c237b5dee70df60690044fb783f))
+
 # 1.0.0 (2023-10-31)
 
 
