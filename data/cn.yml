@@ -10,7 +10,7 @@ scripts:
 css:
   - <link rel="stylesheet" href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/themes/prism.min.css"/>
   - <link rel="stylesheet" href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.css"/>
-  - <link rel="stylesheet" href="https://cdn1.zair.top/cdn/cssfamily%3DRubik" />
+  - <link rel="stylesheet" href="https://fonts.loli.net/css?family=Rubik" />
 
 plugins:
   gitalk:
