@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.8...v1.0.9) (2024-02-04)
+
+
+### Bug Fixes
+
+* cdn替换 ([0a66edc](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/0a66edcdcc66fa251b660f982eaf7f44f6b7488d))
+
 ## [1.0.8](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.7...v1.0.8) (2023-11-02)
 
 
