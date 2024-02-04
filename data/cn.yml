@@ -1,5 +1,5 @@
 scripts:
-  - <script rel="prefetch" async src="http://cdn.zair.top/aurora-cdn/busuanzi.pure.mini.js"></script>
+  - <script rel="prefetch" async src="https://cdn1.zair.top/cdn/busuanzi.pure.mini.js"></script>
   - <script rel="preload" src="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/components/prism-core.js" data-manual></script>
   - <script rel="preload" src="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/plugins/autoloader/prism-autoloader.js"></script>
   - <script rel="preload" src="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.js"></script>
@@ -10,7 +10,7 @@ scripts:
 css:
   - <link rel="stylesheet" href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/themes/prism.min.css"/>
   - <link rel="stylesheet" href="https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/prism/1.29.0/plugins/toolbar/prism-toolbar.min.css"/>
-  - <link rel="stylesheet" href="http://cdn.zair.top/aurora-cdn/cssfamily%3DRubik" />
+  - <link rel="stylesheet" href="https://cdn1.zair.top/cdn/cssfamily%3DRubik" />
 
 plugins:
   gitalk:
