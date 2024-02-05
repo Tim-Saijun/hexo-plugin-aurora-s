@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.11...v1.0.12) (2024-02-05)
+
+
+### Bug Fixes
+
+* category and post generator missing config options ([f3896cc](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/f3896ccd0f2c80e115d499f2947f123cd7bad6e6))
+
 ## [1.0.11](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.10...v1.0.11) (2024-02-04)
 
 
