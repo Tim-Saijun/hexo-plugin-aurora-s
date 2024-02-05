@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.12...v1.0.13) (2024-02-05)
+
+
+### Bug Fixes
+
+* Rubik cdn ([4817549](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/commit/481754933bc6c800226ec149f695340e74b8cdc3))
+
 ## [1.0.12](https://github.com/Tim-Saijun/hexo-plugin-aurora-s/compare/v1.0.11...v1.0.12) (2024-02-05)
 
 
